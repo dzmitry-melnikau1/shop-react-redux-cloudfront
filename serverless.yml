@@ -5,6 +5,7 @@ frameworkVersion: '2'
 provider:
   name: aws
   runtime: nodejs14.x
+  region: eu-west-1
 
 plugins:
   - serverless-finch
@@ -12,8 +13,7 @@ plugins:
 
 custom:
   client:
-#    bucketName: aws-cloudfront-melnikau-dzmitry
-    bucketName: aws-cloudfront-melnikau-dzmitry-clf
+    bucketName: aws-cloudfront-melnikau-dzmitry
     distributionFolder: build
 
   ## Serverless-single-page-app-plugin configuration:

@@ -1,9 +1,7 @@
 the links to:
 
 CloudFront URL
-1. d1t7tk650e7oyz.cloudfront.net
-2. dt845s5x6sdha.cloudfront.net
+1. d1rroyske4da0k.cloudfront.net - created with Serverless-finch and serverless-single-page-app plugins
 
 S3-website
-1. http://aws-cloudfront-melnikau-dzmitry-clf.s3.us-east-1.amazonaws.com
-2. http://aws-cloudfront-melnikau-dzmitry.s3.eu-west-1.amazonaws.com
+1. http://aws-cloudfront-melnikau-dzmitry.s3.eu-west-1.amazonaws.com

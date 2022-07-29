@@ -8,7 +8,7 @@ import Header from "components/MainLayout/components/Header";
 function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
-      {'Copyright © Dzmitry Melnikau deployed app'}
+      {'Copyright © Dzmitry Melnikau deployed this app to s3bucket'}
       <Link color="inherit" href="https://material-ui.com/">
         My Store
       </Link>{' '}
